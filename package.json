@@ -1,0 +1,23 @@
+{
+  "name": "listenblock",
+  "version": "1.0.0",
+  "description": "listenBlock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsky1990/listenBlock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsky1990/listenBlock/issues"
+  },
+  "homepage": "https://github.com/dsky1990/listenBlock#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ethers": "^5.1.4"
+  }
+}
